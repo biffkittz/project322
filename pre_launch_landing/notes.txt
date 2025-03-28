@@ -1,0 +1,4 @@
+* Use WinSCP to transfer these files to /var/www/biffkittz/html/ on transientunicorn
+* to restart nginx after changes:
+    sudo systemctl restart nginx
+    

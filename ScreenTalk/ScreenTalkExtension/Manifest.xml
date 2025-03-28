@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExtensionManifest>
+	<Version>1.0.0</Version>
+	<Name>ScreenTalk Integration</Name>
+	<Author>Bikkfittz, Inc.</Author>
+	<ShortDescription>Integrate your ScreenConnect instance with your ScreenTalk server</ShortDescription>
+	<RequiredLicenseCapabilities>LoadUnsignedExtension</RequiredLicenseCapabilities>
+	<Components>
+		<WebServiceReference SourceFile="Service.ashx" MinProductVersionInclusive="25.1" />
+		<ClientScriptInitializer SourceFile="Initializer.js" MinProductVersionInclusive="25.1" />
+		<WebResourcesDefinition SourceFile="Web.en-US.resx" />
+        <DynamicSessionEventTriggerDefinition SourceFile="SessionEventTrigger.cs" MinProductVersionInclusive="25.1" />
+	</Components>
+    <Settings>
+        <Setting Name="FrameworkSignalRClientEnabledForScreenConnectServer" IsServerOnly="true">
+            <Description>Determines if dynamic session event triggers should attempt communication with your ScreenTalk server</Description>
+            <DefaultValue>true</DefaultValue>
+        </Setting>
+        <Setting Name="JavaScriptSignalRClientEnabledForUserNamesList" IsServerOnly="false">
+            <Description>Comma-separated list of user names for which the SignalR JavaScript client is enabled and communicating with your ScreenTalk server when the user is logged in to the Host page. Note, this is a client-side setting and is not intended to securely prevent the Javascript SignalR client from communicating with your ScreenTalk server from the Host page.</Description>
+            <DefaultValue>biffkittz_internal</DefaultValue>
+        </Setting>
+	</Settings>
+</ExtensionManifest>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tLSF9FrS4x8=",
+  "success": true,
+  "projectFilePath": "C:\\compile\\project322\\ScreenTalk\\SignalRWebpack_example\\SignalRWebpack\\SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\entro\\.nuget\\packages\\microsoft.typescript.msbuild\\5.8.1\\microsoft.typescript.msbuild.5.8.1.nupkg.sha512"
+  ],
+  "logs": []
+}

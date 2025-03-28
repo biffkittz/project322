@@ -1,0 +1,9 @@
+.SomeScreenTalkClass {
+	> * {
+		width: 550px;
+	}
+
+	.ButtonPanel input[type="button"] {
+		padding: 8px 40px;
+	}
+}
