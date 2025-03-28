@@ -1,0 +1,40 @@
+name: CI
+
+on:
+    push:
+        branches: [main]
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Add SSH key
+              env:
+                  SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+              run: |
+                  mkdir -p /home/runner/.ssh
+                  ssh-keyscan "${{ secrets.DEV_SERVER_HOST }}" >> /home/runner/.ssh/known_hosts
+                  echo "${{ secrets.DEV_SERVER_SSH_PRIVATE_KEY }}" > /home/runner/.ssh/github_actions
+                  chmod 600 /home/runner/.ssh/github_actions
+                  ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+                  ssh-add /home/runner/.ssh/github_actions
+
+            - name: Build and deploy
+              env:
+                  SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+              run: |
+                  rm -rf /tmp/screentalk-tmp
+                  mkdir -p /tmp/screentalk-tmp
+                  cd /tmp/screentalk-tmp
+
+                  # Set GitHub credentials using GITHUB_TOKEN
+                  git config --global credential.helper store
+                  echo "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" > ~/.git-credentials
+                  
+                  git pull origin main
+                  cp -R -f /static_pre_launch_landing /var/www/screentalk/html
+
+                  sudo systemctl restart nginx
