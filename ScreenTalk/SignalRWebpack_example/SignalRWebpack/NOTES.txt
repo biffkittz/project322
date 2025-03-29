@@ -1,0 +1,26 @@
+Skeleton derived from:
+    https://learn.microsoft.com/en-us/aspnet/core/tutorials/signalr-typescript-webpack?view=aspnetcore-9.0&tabs=visual-studio-code
+
+had to uninstall/install nodejs before this stuff worked
+
+npm init -y
+npm i -D -E clean-webpack-plugin css-loader html-webpack-plugin mini-css-extract-plugin ts-loader typescript webpack webpack-cli
+npm i @microsoft/signalr @types/node
+npm run release
+
+PS C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack> dotnet run
+Using launch settings from C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\Properties\launchSettings.json...
+Building...
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5160
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack
+
+
+Setiing correct permissions for file kestrel-screentalk.service:
+$ sudo chown root:root /etc/systemd/system/kestrel-screentalk.service
+$ sudo chmod 0644 /etc/systemd/system/kestrel-screentalk.service

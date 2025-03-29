@@ -44,3 +44,23 @@
 
 PS C:\WINDOWS\system32> cd C:\compile\project322\ScreenTalk\ScreenTalkExtension\SignalRClient\ts
 PS C:\compile\project322\ScreenTalk\ScreenTalkExtension\SignalRClient\ts> npm run release
+
+
+
+SETTING UP THE UBUNTU HOST FOR screentalk.cloud
+
+updated /etc/nginx/sites-enabled/screentalk with content in ScreenTalk\SignalRWebpack_example\SignalRWebpack\screentalk:
+    file 'screentalk' is the nginx reverse proxy config; nginx proxies requests to the kestrel http endpoint / on port 8080
+    and the hub endpoint /hub on port 8080
+
+certs are /etc/ssl/screentalkcer.pem and /etc/ssl/screentalkkey.pem, which come from cloudflare SSL/TLS --> Origin Server:
+kestrel configured to listen on http://localhost:8080 in appsettings.json; nginx terminates ssl and proxies to kestrel
+
+PS C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack> dotnet publish --configuration Release
+Xfer 'C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\*' in local to remote @ '/var/www/screentalk/*'
+--sudo systemctl restart nginx
+sudo nginx -t
+sudo nginx -s reload
+sudo systemctl enable kestrel-screentalk.service
+sudo systemctl start kestrel-screentalk.service
+sudo systemctl status kestrel-screentalk.service

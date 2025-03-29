@@ -1,0 +1,10 @@
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\SignalRWebpack.exe
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\appsettings.Development.json
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\appsettings.json
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\package-lock.json
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\package.json
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\src\tsconfig.json
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\SignalRWebpack.dll
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\SignalRWebpack.runtimeconfig.json
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\SignalRWebpack.pdb
+C:\compile\project322\ScreenTalk\SignalRWebpack_example\SignalRWebpack\bin\Release\net9.0\publish\SignalRWebpack.deps.json

@@ -1,0 +1,18 @@
+
+[Unit]
+Description=screentalk
+
+[Service]
+WorkingDirectory=/var/www/screentalk
+ExecStart=/usr/bin/dotnet /var/www/screentalk/SignalRWebpack.dll
+Restart=always
+# Restart service after 10 seconds if the dotnet service crashes:
+RestartSec=10
+KillSignal=SIGINT
+SyslogIdentifier=dotnet-screentalk
+User=root
+Environment=ASPNETCORE_ENVIRONMENT=Development
+Environment=DOTNET_NOLOGO=true
+
+[Install]
+WantedBy=multi-user.target

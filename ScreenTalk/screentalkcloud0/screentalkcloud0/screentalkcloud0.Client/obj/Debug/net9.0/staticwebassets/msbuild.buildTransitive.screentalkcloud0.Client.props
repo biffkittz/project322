@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\screentalkcloud0.Client.props" />
+</Project>

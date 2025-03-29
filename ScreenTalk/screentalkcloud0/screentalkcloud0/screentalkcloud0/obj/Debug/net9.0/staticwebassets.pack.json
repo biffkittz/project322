@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\screentalkcloud0.bundle.scp.css",
+      "PackagePath": "staticwebassets\\screentalkcloud0.5jbgqh0p6v.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\compile\\project322\\ScreenTalk\\screentalkcloud0\\screentalkcloud0\\screentalkcloud0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.screentalkcloud0.props",
+      "PackagePath": "build\\screentalkcloud0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.screentalkcloud0.props",
+      "PackagePath": "buildMultiTargeting\\screentalkcloud0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.screentalkcloud0.props",
+      "PackagePath": "buildTransitive\\screentalkcloud0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.screentalkcloud0.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.screentalkcloud0.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

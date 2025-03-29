@@ -1,0 +1,29 @@
+
+server {
+    server_name screentalk.cloud *.screentalk.cloud;
+
+    listen 443 ssl;
+    listen [::]:443 ssl;
+    ssl_certificate         /etc/ssl/screentalkcer.pem;
+    ssl_certificate_key     /etc/ssl/screentalkkey.pem;
+
+    # Configure the SignalR Endpoint
+    location /hub {
+        proxy_pass http://localhost:8080;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection "upgrade";
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+    }
+
+    # Configure the root location
+    location / {
+        proxy_pass http://localhost:8080;
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection keep-alive;
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+    }
+}
